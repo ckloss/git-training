@@ -52,12 +52,10 @@ while(t < T)
     TODO - add integration
 	
     TODO - add some output to the screen (printf or cout)
-
-<<<<<<< HEAD
+    std::cout<<"Ramon is the best"<<std::endl;
     TODO - add dt to t
 
     t += dt;
->>>>>>> 1bd7af89be4dc9db3c0a80e64b6a2adb04f377b8
 }
 
 
