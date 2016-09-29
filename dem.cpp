@@ -47,7 +47,7 @@ while(t < T)
     TODO - add integration
 	
     TODO - add some output to the screen (printf or cout)
-    std::cout<<"Ramon is the best"<<std::endl;
+    std::cout<<"Ramon is the best"<<std::endl;//very unfair
     TODO - add dt to t
 
     t += dt;
