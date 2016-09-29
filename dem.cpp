@@ -52,7 +52,6 @@ while(t < T)
     t += dt;
 }
 
-<<<<<<< HEAD
 //Sasha is the Best!!!
 //Rahul ola ola!!!!!
 // username test
