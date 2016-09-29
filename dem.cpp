@@ -2,9 +2,13 @@
 // 2016 - Christoph Kloss, DCS Computing
 
 
+<<<<<<< HEAD
 // TODO here, add reference to license!
 /*                   GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
+=======
+// OpenSource CODE: PLease follow the link for LICENSE :)
+>>>>>>> 129e32dd2671b7445998df25df3337ed9cd69fa8
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
@@ -707,5 +711,10 @@ while(t < T)
     TODO - add dt to t
 }
 
+<<<<<<< HEAD
 //Sasha is the Best!!!
+=======
+
+THIS LINE IS FROM CHRISTOPH AND WILL CAUSE A PROBLEM.....
+>>>>>>> 129e32dd2671b7445998df25df3337ed9cd69fa8
 
