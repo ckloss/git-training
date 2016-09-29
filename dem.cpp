@@ -2,7 +2,16 @@
 // 2016 - Christoph Kloss, DCS Computing
 
 
+<<<<<<< HEAD
+//                     GNU GENERAL PUBLIC LICENSE
+                   //    Version 3, 29 June 2007
+// Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.
+//   The GNU General Public License is a free, copyleft license for
+// software and other kinds of works.
+// For T-MAPPP training event in Lille
+=======
 // OpenSource CODE: PLease follow the link for LICENSE :)
+>>>>>>> 1bd7af89be4dc9db3c0a80e64b6a2adb04f377b8
 
 
 // this code is really bad and for git training purposes only!
@@ -44,9 +53,15 @@ while(t < T)
 	
     TODO - add some output to the screen (printf or cout)
 
+<<<<<<< HEAD
+    TODO - add dt to t
+
     t += dt;
+>>>>>>> 1bd7af89be4dc9db3c0a80e64b6a2adb04f377b8
 }
 
 
 THIS LINE IS FROM CHRISTOPH AND WILL CAUSE A PROBLEM.....
 
+
+ПРИВЕТ
