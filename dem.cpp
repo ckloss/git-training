@@ -1,13 +1,14 @@
 ﻿
 // 2016 - Christoph Kloss, DCS Computing
 
+
 //                     GNU GENERAL PUBLIC LICENSE
 //    Version 3, 29 June 2007
 // Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.
 //   The GNU General Public License is a free, copyleft license for
 // software and other kinds of works.
 // For T-MAPPP training event in Lille
-//Sasha is the Best!!!
+
 
 // this code is really bad and for git training purposes only!
 
@@ -47,11 +48,11 @@ while(t < T)
     TODO - add integration
 	
     TODO - add some output to the screen (printf or cout)
-    std::cout<<"Ramon is the best"<<std::endl;
-    TODO - add dt to t
 
     t += dt;
 }
 
+<<<<<<< HEAD
 //Sasha is the Best!!!
 //Rahul ola ola!!!!!
+// username test
