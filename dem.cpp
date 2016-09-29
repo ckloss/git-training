@@ -2,7 +2,7 @@
 // 2016 - Christoph Kloss, DCS Computing
 
 
-// TODO here, add reference to license!
+// OpenSource CODE: PLease follow the link for LICENSE :)
 
 
 // this code is really bad and for git training purposes only!
@@ -33,4 +33,7 @@ while(t < T)
     TODO - add dt to t
                        t = t + dt;
 }
+
+
+THIS LINE IS FROM CHRISTOPH AND WILL CAUSE A PROBLEM.....
 
