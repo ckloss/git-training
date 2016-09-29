@@ -2,7 +2,10 @@
 // 2016 - Christoph Kloss, DCS Computing
 
 
-// TODO here, add reference to license!
+//                     GNU GENERAL PUBLIC LICENSE
+                   //    Version 3, 29 June 2007
+// Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/> Everyone is permitted to copy and distribute verbatim copies  of this license document, but changing it is not allowed.
+// For T-MAPPP training event in Lille
 
 
 // this code is really bad and for git training purposes only!
